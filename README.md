@@ -3,8 +3,13 @@
 <p  align="center">
     <a  href="https://www.linkedin.com/in/jo%C3%A3o-mota-a16297145//">
         <img  alt="João Manuel Mota" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Mota-red"/>
-    </a>    
+    </a>  
+    <a>
     <img  alt="License"  src="https://img.shields.io/badge/license-MIT-e02041">
+    </a>    
+     <a href="https://www.python.org/">
+    	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
+    </a>
 </p>
 
 # :star: Indice
